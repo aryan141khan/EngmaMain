@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "./static/css/main.0a182e04.chunk.css",
+    "main.js": "./static/js/main.fef76daf.chunk.js",
+    "main.js.map": "./static/js/main.fef76daf.chunk.js.map",
+    "runtime-main.js": "./static/js/runtime-main.f0094627.js",
+    "runtime-main.js.map": "./static/js/runtime-main.f0094627.js.map",
+    "static/js/2.8f66a0e7.chunk.js": "./static/js/2.8f66a0e7.chunk.js",
+    "static/js/2.8f66a0e7.chunk.js.map": "./static/js/2.8f66a0e7.chunk.js.map",
+    "static/js/3.bbc5363b.chunk.js": "./static/js/3.bbc5363b.chunk.js",
+    "static/js/3.bbc5363b.chunk.js.map": "./static/js/3.bbc5363b.chunk.js.map",
+    "index.html": "./index.html",
+    "static/css/main.0a182e04.chunk.css.map": "./static/css/main.0a182e04.chunk.css.map",
+    "static/js/2.8f66a0e7.chunk.js.LICENSE.txt": "./static/js/2.8f66a0e7.chunk.js.LICENSE.txt",
+    "static/media/E3-bg.14e36058.jpg": "./static/media/E3-bg.14e36058.jpg",
+    "static/media/Enigma-logo.6c1a325f.png": "./static/media/Enigma-logo.6c1a325f.png",
+    "static/media/Turing.c74a64e2.png": "./static/media/Turing.c74a64e2.png",
+    "static/media/logo2.76cecd10.png": "./static/media/logo2.76cecd10.png",
+    "static/media/spin.dfc60a73.gif": "./static/media/spin.dfc60a73.gif"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f0094627.js",
+    "static/js/2.8f66a0e7.chunk.js",
+    "static/css/main.0a182e04.chunk.css",
+    "static/js/main.fef76daf.chunk.js"
+  ]
+}
